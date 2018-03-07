@@ -5,6 +5,13 @@ body
 	font-size: 16px;
 }
 
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
 .btext{
 	color: #f9f3f4;
 	position: absolute;
