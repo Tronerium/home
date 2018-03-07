@@ -35,8 +35,8 @@ h1{
 }
 
 .btn:hover{
-	color: #b19295;
-	border: #eacc2c 1px solid;
+	color: #fff;
+	border: #b19295 1px solid;
 }
 
 #particles-js{
