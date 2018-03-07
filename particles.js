@@ -55,18 +55,18 @@ var pJS = function(tag_id, params){
         }
       },
       size: {
-        value: 20,
+        value: 10,
         random: false,
         anim: {
           enable: false,
-          speed: 20,
+          speed: 10,
           size_min: 0,
           sync: false
         }
       },
       line_linked: {
         enable: true,
-        distance: 100,
+        distance: 200,
         color: '#fff',
         opacity: 1,
         width: 1
