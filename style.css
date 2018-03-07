@@ -34,6 +34,10 @@ h1{
 	line-height: 4em;
 }
 
+.btn:hover{
+	color: #b19295;
+	border: #fff 1px solid;
+
 #particles-js{
 	height: 100%;
 	background: #262626;
