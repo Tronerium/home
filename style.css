@@ -25,6 +25,15 @@ h1{
 	font-size: 40px;
 }
 
+.btn{
+	color: #fff;
+	text-decoration: none;
+	border: #eee 1px solid;
+	padding: 10px 15px;
+	border-radius: 8px;
+	line-height: 4em;
+}
+
 #particles-js{
 	height: 100%;
 	background: #262626;
