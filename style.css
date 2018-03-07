@@ -4,6 +4,20 @@ body
 	padding: 0;
 	height: 100vh;
 }
+
+.btext{
+	color: #f9f3f4;
+	position: absolute;
+	text-align: center;
+	top: 40%;
+	width: 100%;
+	line-height: 0.4em;
+}
+
+h1{
+	font-size: 40px;
+}
+
 #particles-js
 {
 	height: 100%;
