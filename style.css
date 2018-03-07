@@ -1,11 +1,13 @@
 body
 {
 	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
 	padding: 0;
 	height: 100vh;
 }
 
-btext{
+.btext{
 	color: #f9f3f4;
 	position: absolute;
 	text-align: center;
